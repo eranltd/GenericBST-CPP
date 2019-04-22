@@ -1,5 +1,5 @@
 /*
- * BST_Node_implement.h
+ * BSTNode.c
  *
  *  Created on: Dec 23, 2015
  *      Author: eranpel
